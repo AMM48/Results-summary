@@ -176,6 +176,10 @@ html{
     font-weight: bold; 
   }
 
+  .hundred {
+    font-weight: bold; 
+  }
+
   footer{
     margin: 2.5rem;
   }
